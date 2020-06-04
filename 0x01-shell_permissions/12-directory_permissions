@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p 751 dir_holerton
+mkdir -m 751 dir_holberton
+
